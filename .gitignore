@@ -1,0 +1,17 @@
+*.dist-info
+*.idea
+*.whl
+*.zip
+*/.gitignore
+*.DS_Store
+*/target
+*.project
+*/*/*/target
+*/*/target
+*.classpath
+*.settings/
+*/dependency-reduced-pom.xml
+*.rdb
+*/logs/*
+*/test-output/*
+*/bin/*
